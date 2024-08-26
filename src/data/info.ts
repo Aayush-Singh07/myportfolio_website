@@ -52,7 +52,7 @@ export const info = {
 
   projects: [
     {
-      title: "Zomato Landing page",
+      title: "Swiggy Landing page",
       date: "2024",
       description:
         "an interactive xomato landing page",
