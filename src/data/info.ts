@@ -1,7 +1,7 @@
 export const info = {
   name: "Aayush Kumar Singh",
   brief_description:
-    "I'm a mischievous full stack developer with a knack for troublemaking.",
+    "I'm a nice full stack developer with a knack for troublemaking.",
   role: "Full Stack Developer",
   picture: "/images.jpeg",
   picture_alt: "Bart Simpson",
