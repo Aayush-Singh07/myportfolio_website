@@ -3,7 +3,7 @@ export const info = {
   brief_description:
     "I'm a mischievous full stack developer with a knack for troublemaking.",
   role: "Full Stack Developer",
-  picture: "/pic.png",
+  picture: "/images.jpeg",
   picture_alt: "Bart Simpson",
   location: "Vasco, ",
   cv: "/resume.pdf",
@@ -65,7 +65,7 @@ export const info = {
       title: "Skateboard Shop",
       date: "2023",
       description:
-        "An e-commerce site selling skateboards and prank supplies. No bullies allowed!",
+        "An food  e-commerce site for foodies",
       link: "https://github.com/bartsimpsonfake/skate-shop",
       tech: ["React", "Node.js", "MongoDB", "Skateboard.js"],
       img_alt: "Skateboard Shop",
